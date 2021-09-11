@@ -1,5 +1,5 @@
 ## Hi!
-My name is Oliver B. I'm a web + game developer and 3D + graphic designer. I use the platform Roblox for most of my game development, however I will be trying out Unity in the future. For design, I use Illustrator and Blender.
+My name is Oliver B. I'm a web + game developer and 3D + graphic designer. I mainly use Illustrator and Blender for 2D and 3D design. For programming, I use VS Code. 
 
 ## I currently write in the following languages:
 - C++ (Arduino, my first text language)
