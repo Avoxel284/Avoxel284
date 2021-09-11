@@ -12,6 +12,5 @@ My name is Oliver B. I'm a web + game developer and 3D + graphic designer. I use
 
 ## Other stuff about me
 - I own a video game company! https://arro.digital/
-- Pronouns: he/him
 - My future goals are to ace Python, learn Ruby and C# and figure out how to use Unity
 - I'm currently a front-end developer but maybe will do more back-end in the future
