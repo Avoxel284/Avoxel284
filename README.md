@@ -3,7 +3,7 @@ My name is Oliver. I'm a web + game developer and 3D + graphic designer. I mainl
 
 ## I currently write in the following languages:
 - C++ (Arduino, my first text language)
-- JavaScript
+- JavaScript (Node and web)
 - HTML and CSS (web development)
 - Luau (Roblox development)
 - Lua (native lua projects)
@@ -12,5 +12,5 @@ My name is Oliver. I'm a web + game developer and 3D + graphic designer. I mainl
 
 ## Other stuff about me
 - I own a video game company! https://arro.digital/
-- My future goals are to ace Python, learn Ruby and C# and figure out how to use Unity
-- I'm currently a front-end developer but maybe will do more back-end in the future
+- My future goals are to learn Ruby + C# and figure out how to use Unity
+- I am a full stack developer
