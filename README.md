@@ -9,8 +9,3 @@ My name is Oliver. I'm a web + game developer and 3D + graphic designer. I mainl
 - Lua (native lua projects)
 - Python
 - (Learning) C# for game development
-
-## Other stuff about me
-- I own a video game company! https://arro.digital/
-- My future goals are to learn Ruby + C#
-- I am a full stack developer
