@@ -5,7 +5,6 @@ My name is Oliver. I'm a web + game developer and 3D + graphic designer. I mainl
 - C++ (Arduino, my first text language)
 - JavaScript (Node and web)
 - HTML and CSS (web development)
-- Luau (Roblox development)
-- Lua (native lua projects)
+- Lua 
 - Python
-- (Learning) C# for game development
+- (Learning) C++ for game development
