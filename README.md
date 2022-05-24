@@ -10,4 +10,4 @@ My name is Oliver. I'm a web + game developer and 3D + graphic designer. I mainl
 - (Learning) C++ for game development
 
 ## Favourite language?
-NodeJs. Clean syntax. I love it.
+NodeJS. Clean syntax. I love it.
