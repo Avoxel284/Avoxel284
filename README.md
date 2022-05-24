@@ -3,8 +3,11 @@ My name is Oliver. I'm a web + game developer and 3D + graphic designer. I mainl
 
 ## I currently write in the following languages:
 - C++ (Arduino, my first text language)
-- JavaScript (Node and web)
+- JavaScript and TypeScript 
 - HTML and CSS (web development)
 - Lua 
 - Python
 - (Learning) C++ for game development
+
+## Favourite language?
+NodeJs. Clean syntax. I love it.
