@@ -7,7 +7,7 @@ My name is Oliver. I'm a web + game developer and 3D + graphic designer. I mainl
 - HTML and CSS (web development)
 - Lua 
 - Python
-- (Learning) C++ for game development
+- (Learning) C++ & C# for game development
 
 ## Favourite language?
 NodeJS. Clean syntax. Includes OOP but not required. I love it.
