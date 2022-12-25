@@ -11,3 +11,6 @@ My name is Oliver. I'm a web + game developer and 3D + graphic designer. I mainl
 
 ## Favourite language?
 NodeJS; clean syntax and includes OOP but not required. TypeScript is also awesome
+
+## Anything else?
+Traditional MPAs ftw and ES6 imports suck
