@@ -1,16 +1,16 @@
-## Hi!
+<img src="media/header1.png"></img>
+
 My name is Oliver. I'm a web + game developer and 3D + graphic designer. I mainly use Illustrator and Blender for 2D and 3D design and for programming I use VS Code. I've been coding since around 2016.
 
-## I currently write in the following languages:
+<img src="media/header2.png"></img>
+
 - C++ (Arduino, my first text language)
-- JavaScript and TypeScript 
+- JavaScript and TypeScript
 - HTML and CSS (web development)
-- Lua 
+- Lua
 - Python
 - (Learning) C++ & C# for game development
 
-## Favourite language?
-NodeJS; clean syntax and includes OOP but not required. TypeScript is also awesome
+<img src="media/header3.png"></img>
 
-## Anything else?
-Traditional MPAs ftw and ES6 imports suck
+NodeJS; clean syntax and includes OOP but not required. TypeScript is also awesome, but ES6 imports are kinda trash.
