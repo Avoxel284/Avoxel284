@@ -1,6 +1,6 @@
 <img src="media/header1.png"></img>
 
-I'm a web + game developer and 3D + graphic designer. I mainly use Illustrator and Blender for 2D and 3D design and for programming I use VS Code. I've been coding since around 2016.
+Web + game developer and 3D + graphic designer. I mainly use Illustrator and Blender for 2D and 3D design and for programming I use VS Code. I've been coding since around 2016.
 
 <img src="media/header2.png"></img>
 
